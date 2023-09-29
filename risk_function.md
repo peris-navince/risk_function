@@ -1,6 +1,7 @@
 # C语言风险函数
 strcpy  
 strtok  
+strcat  
 sprintf  
 sscanf  
 strncpy  
