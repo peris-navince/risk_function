@@ -17,3 +17,9 @@ websUrlHandlerDefine
 websgetvar()  
 CsteSystem()  
 Uci_Set_Str()
+
+# NETGEAR风险函数
+R6250:
+sub_16B04()(This function receives data from network traffic, similar to websgetvar(), and is a different function in different firmwares.)
+acosNvramConfig_get()
+acosNvramCongif_set()
